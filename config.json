@@ -1,0 +1,15 @@
+ 
+[
+     {
+         "model":"gemini-1.5-flash",
+         "api_key":"AIzaSyDSM7jOYjKVTxB80R97Rn_xkmjeSxMIFmo",
+         "api_type":"google",
+         "temperature":0.9
+     },
+     {
+         "model":"gemini-1.5-pro",
+         "api_key": "AIzaSyDSM7jOYjKVTxB80R97Rn_xkmjeSxMIFmo",
+         "api_type":"google",
+         "temperature":0.9
+     }
+ ]

@@ -1,0 +1,7 @@
+autogen-agentchat[llm,gemini]~=0.2
+
+ 
+matplotlib
+numpy
+yfinance
+pandas
